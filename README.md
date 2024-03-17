@@ -11,3 +11,12 @@
 ## 使用步骤
 只需要复制粘贴一下cookie，然后就可以自动
 
+
+web页面
+https://search.bilibili.com/all?vt=67184772&keyword=315%E6%99%9A%E4%BC%9A&from_source=webtop_search&spm_id_from=333.1007&search_source=5&page=2&o=24
+获取videolist与aid
+https://api.bilibili.com/x/web-interface/wbi/search/type?search_type=video&keyword=315%E6%99%9A%E4%BC%9A&page_size=50
+获取oid
+https://api.bilibili.com/x/web-interface/view?aid=1051819621
+获取弹幕
+https://api.bilibili.com/x/v1/dm/list.so?oid=1471465268
