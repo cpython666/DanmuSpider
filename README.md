@@ -20,3 +20,8 @@ https://api.bilibili.com/x/web-interface/wbi/search/type?search_type=video&keywo
 https://api.bilibili.com/x/web-interface/view?aid=1051819621
 获取弹幕
 https://api.bilibili.com/x/v1/dm/list.so?oid=1471465268
+
+
+## TODO
+GUI页面，让不会python的同学也可以使用软件
+视频投币过100立马赶工出来！
