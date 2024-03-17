@@ -13,12 +13,19 @@
 
 
 web页面
+<br />
 https://search.bilibili.com/all?vt=67184772&keyword=315%E6%99%9A%E4%BC%9A&from_source=webtop_search&spm_id_from=333.1007&search_source=5&page=2&o=24
+<br />
 获取videolist与aid
+<br />
 https://api.bilibili.com/x/web-interface/wbi/search/type?search_type=video&keyword=315%E6%99%9A%E4%BC%9A&page_size=50
+<br />
 获取oid
+<br />
 https://api.bilibili.com/x/web-interface/view?aid=1051819621
+<br />
 获取弹幕
+<br />
 https://api.bilibili.com/x/v1/dm/list.so?oid=1471465268
 
 
