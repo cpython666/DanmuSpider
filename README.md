@@ -11,6 +11,7 @@
 ## 使用步骤
 只需要复制粘贴一下cookie，然后就可以自动
 
+把cookie复制粘贴在cookie.txt文件中，隐私考虑可以新建mycookie.txt文件在其中粘贴cookie
 
 web页面
 <br />
